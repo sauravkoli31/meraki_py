@@ -16,8 +16,8 @@ LURL = 'https://account.meraki.com/login/login'
 
 #Payload(Cisco Meraki Username and Password)
 payload = {
-    'email': 'sauravkoli3105@gmail.com',
-    'password': 'Hterminal31'
+    'email': 'email',
+    'password': 'password'
 }
 print("CISCO MERAKI - Trying to Log IN")
 print("Please wait")
